@@ -58,7 +58,7 @@ function Footer() {
                         <p>TERMS AND CONDITIONS</p>
                       </div>
                       <div>
-                        <p>Designed by <span><a href="https://www.instagram.com/prdp_ydv10" target='_blank'>Pradeep Yadav</a></span></p>
+                        <p>Designed @ <span><a href="https://www.instagram.com/hkc_a_cbse_school" target='_blank'>HKC</a></span></p>
                       </div>
                   </div>
                
